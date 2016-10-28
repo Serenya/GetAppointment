@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.renderWhitespace": "all",
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "javascript.validate.enable": false,
+    "eslint.enable": true,
+    "eslint.run": "onSave"
+}
